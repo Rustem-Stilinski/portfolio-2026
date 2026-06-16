@@ -4,7 +4,7 @@ A personal portfolio site built with **React + TypeScript + Vite** and routed
 with **React Router**. Nine content pages: Home, About, Interests, Resume,
 Projects, Skills, Geolocation, Guestbook, and Contact.
 
-Github pages linK: https://rustem-stilinski.github.io/rustem-portfolio/#/contact
+Github pages link: https://rustem-stilinski.github.io/portfolio-2026/#/
 
 ---
 
