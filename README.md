@@ -40,14 +40,13 @@ npm run deploy
 ```
 src/
 ├── components/    Navbar, Footer, ProjectCard, SkillBar, ThemeToggle,
-│                  DecisionGraph (signature SVG), GalleryArt,
-│                  DragReorder, DoodleCanvas, GeoLocator, WorkerDemo (Lab)
+│                  DecisionGraph, GalleryArt,
+│                  GeoLocator
 ├── pages/         Home, About, Interests, Resume, Projects, Skills,
-│                  Lab, Guestbook, Contact
+│                  Geolocation, Guestbook, Contact
 ├── context/       ThemeContext (light/dark, persisted)
 ├── hooks/         useTheme (custom hook)
 ├── services/      guestbook (CRUD: Supabase REST or localStorage)
-├── workers/       score.worker (off-main-thread simulation)
 ├── data/          projects, skills, content (typed data modules)
 ├── types/         shared TypeScript interfaces
 ├── App.tsx        routes + layout
